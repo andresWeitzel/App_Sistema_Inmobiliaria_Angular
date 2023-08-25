@@ -251,6 +251,9 @@ ng g m components/navbar --module app
  
  <br>
 
+#### Ejemplos base
+* [Plantilla inicial](https://github.com/creativetimofficial/now-ui-dashboard-angular) 
+
 #### Documentación
 
 #### Herramientas 
