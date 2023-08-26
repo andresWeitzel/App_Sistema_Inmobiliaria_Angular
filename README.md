@@ -251,10 +251,17 @@ ng g m components/navbar --module app
  
  <br>
 
+#### Ejemplos base
+* [Plantilla inicial](https://github.com/creativetimofficial/now-ui-dashboard-angular) 
+
 #### Documentación
 
 #### Herramientas 
 * [Fondos de pantallas unsplash](https://unsplash.com/it)
+
+#### Librerías
+* [Nucleo App](https://nucleoapp.com/docs/exporting-icons) (Los iconos se encuentran importados desde `fonts`. Para identificar nombres dirigirse a `scss/now-ui-dashboard/_nucleo-outline.scss`). Para más info dirigirse a la [demo oficial](https://demos.creative-tim.com/now-ui-dashboard/examples/icons.html)
+* [Paleta Generadora de colores](0C356A)
 
 
 
