@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class FooterComponent implements OnInit {
   today : Date = new Date();
-  githubProfile : string = "https://github.com/andresWeitzel/andresWeitzel";
+  githubProfile : string = "https://github.com/andresWeitzel";
 
   constructor() { }
 
