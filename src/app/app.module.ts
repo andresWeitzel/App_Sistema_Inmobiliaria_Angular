@@ -12,7 +12,7 @@ import { ComponentsModule } from './components/components.module';
 import { AppComponent } from './app.component';
 
 import { AdminLayoutComponent } from './layouts/admin-layout/admin-layout.component';
-import { HomeComponent } from './home/home.component';
+import { HomeComponent } from './layouts/home/home.component';
 
 @NgModule({
   imports: [
